@@ -25,10 +25,10 @@ Ramon [![Youtube Badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&styl
 
 Firebit - Blog: https://firebit8888.blogspot.com/
 
-João Vieira [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j.bernas.bernardo/?hl=pt)
+[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j.bernas.bernardo/?hl=pt)
 
-João Vieira [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/j.bernas.bernardo/)
+[![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/j.bernas.bernardo/)
 
-João Vieira [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bjva888)
+[![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bjva888)
 
-Ramon [![Twitch Badge](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/bernasjb888)
+[![Twitch Badge](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/bernasjb888)
