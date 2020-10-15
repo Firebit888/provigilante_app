@@ -19,11 +19,9 @@ You can also find me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vieira-7570a4a5/)
 
-João Vieira [![Youtube Badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfwURphwJUaKukPNuQcxAIg) 
+[![Youtube Badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfwURphwJUaKukPNuQcxAIg) - João Vieira
 
-Ramon [![Youtube Badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC85eIv8x3Y6ZTbquT0mHgbA) 
-
-Firebit - Blog: https://firebit8888.blogspot.com/
+[![Youtube Badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC85eIv8x3Y6ZTbquT0mHgbA) - Ramon
 
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j.bernas.bernardo/?hl=pt)
 
@@ -32,3 +30,5 @@ Firebit - Blog: https://firebit8888.blogspot.com/
 [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bjva888)
 
 [![Twitch Badge](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/bernasjb888)
+
+Firebit - Blog: https://firebit8888.blogspot.com/
