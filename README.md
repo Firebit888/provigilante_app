@@ -21,7 +21,7 @@ You can also find me on:
 
 [![Youtube Badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfwURphwJUaKukPNuQcxAIg) - João Vieira
 
-[![Youtube Badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC85eIv8x3Y6ZTbquT0mHgbA) - Ramon
+[![Youtube Badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC85eIv8x3Y6ZTbquT0mHgbA) - Ramon Vieira
 
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j.bernas.bernardo/?hl=pt)
 
